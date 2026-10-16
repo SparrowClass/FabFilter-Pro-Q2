@@ -76,7 +76,7 @@ No. Windows only.
 ## Installation
 
 1. Download the archive from the link below.
-2. Extract it to a folder of your choice.
+Extract it to a folder of your choice. The archive is protected — use password: `vst2026`.
 3. Run the installer (`.exe`).
 4. Choose formats (VST / VST3 / AAX) and the install folder.
 5. Open your DAW and rescan plugins.
