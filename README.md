@@ -19,7 +19,7 @@
 ## Preview
 
 <div align="center">
-  <img src="preview.png" alt="FabFilter Pro-Q 2 equalizer plugin interface — VST VST3 AAX for Windows" width="700">
+  <img src="https://github.com/user-attachments/assets/c2272916-9a77-4173-a87c-be969eb6d69c" alt="FabFilter Pro-Q 2 equalizer plugin interface — VST VST3 AAX for Windows" width="700">
 </div>
 
 ---
