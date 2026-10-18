@@ -12,7 +12,7 @@
 
 ---
 
-> Pro-Q 2 — the equalizer that started a new era for FabFilter. Natural Phase, Spectrum Grab, up to 24 bands, and an interface that's still a benchmark for usability.
+> Pro-Q 2 - the equalizer that started a new era for FabFilter. Natural Phase, Spectrum Grab, up to 24 bands, and an interface that's still a benchmark for usability.
 
 ---
 
